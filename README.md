@@ -1,3 +1,2 @@
 # random-quote-generator
-I have made a random quote generator using HTML ,CSS AND JavaScript.
-I have used API for random quotes , https://github.com/lukePeavey/quotable 
+ Random Quote Generator using Quotable API , built with HTML,CSS and JavaScript.
